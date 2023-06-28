@@ -37,7 +37,7 @@ $ git clone git@github.com:caioagiani/whatsapp-bot.git
 # Instalar TypeScript Global
 $ npm i -g typescript
 
-# Configurar .env para envio de SMS
+# Configurar .env para envio de SMS.
 $ cp .env.example .env
 
 # Instalar dependências
